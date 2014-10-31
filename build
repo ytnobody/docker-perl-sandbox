@@ -1,0 +1,8 @@
+#!/bin/bash
+
+. /root/.bash_profile
+
+plenv install 5.16.3 --as 5.16
+plenv install 5.18.2 --as 5.18
+plenv install 5.20.1 --as 5.20
+
